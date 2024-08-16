@@ -8,7 +8,7 @@ Please fill in the appropriate checklist below (delete whatever is not relevant)
  - [ ] Create a new branch on your fork
  - [ ] Check your proposed test data follows the [guidelines](https://nf-co.re/docs/contributing/test_data_guidelines)
  - [ ] Add your test dataset
-   - [ ] If you clone it locally use `git clone <url> --branch <branch> --single-branch`
+   - [ ] If you clone it locally use `git clone http://github.com/hmgene/hichipcnv --branch hichipcnv --single-branch`
  - [ ] Make a PR on a new branch with a relevant name
  - [ ] Wait for the PR to be merged
  - [ ] Use this newly created branch for your tests
